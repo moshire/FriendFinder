@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://www.cru.org/us/en/train-and-grow/life-and-relationships/dating/_jcr_content/content-parsys/tile_47751013.transform/CruHalf432x243/img.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: firebrick;
+    color:lightgray;
+    opacity: .9;
+    margin-top: 20px;
+}
+
+#submit {
+    background: firebrick;
+}
+
+#jumbo_h2 {
+    color:black;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.panel-title {
+    color: firebrick;
+}
+
+.container1{
+    color: yellow;
+    text-emphasis-color: violet;
+}
+h2{
+    color:black;
+}
